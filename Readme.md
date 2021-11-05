@@ -1,0 +1,1 @@
+# A Next.js template to setup a VS Code devcontainer
