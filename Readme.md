@@ -1,4 +1,4 @@
-# A Next.js template to setup a VS Code devcontainer
+# A Next.js in a VS Code development container
 A simple and minimalistic template to develop Next.js code in a VS Code development container.
 
 ## Features
