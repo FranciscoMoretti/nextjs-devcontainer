@@ -1,8 +1,8 @@
 ![Next.js Devcontainer](/banner.png?raw=true "Next.js Devcontainer")
 
 
-# A Next.js in a VS Code development container
-A simple and minimalistic template to develop Next.js code in a VS Code development container.
+# Next.js in a VS Code development container
+A simple and minimalistic template to develop your Next.js application in a VS Code development container.
 
 ## Features
 - Node + Typescript
@@ -12,7 +12,7 @@ A simple and minimalistic template to develop Next.js code in a VS Code developm
 
 
 ## Pre-requisites
-1. [Set up git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in your host machine or follow with a credentials manager.
+1. [Set up git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in your host machine with the [credentials manager core](https://github.com/microsoft/Git-Credential-Manager-Core). The credentials manager will let you use the git credentials from your host machine inside the container without any extra step.
 
 ## Steps
 1. Build and Activate the [Development Container](https://code.visualstudio.com/docs/remote/containers).
@@ -28,7 +28,7 @@ A simple and minimalistic template to develop Next.js code in a VS Code developm
       git submodule add https://github.com/cassidoo/next-netlify-starter.git
       ```
 
-3. Go to the newly created directory to run `npm` commands. In this case it should be:
+3. Go to the newly created directory to run `npm` commands. Just replace `your_project_folder` with the name folder name of the project you just added.
    ```bash
    cd `your_project_folder`
    ```
