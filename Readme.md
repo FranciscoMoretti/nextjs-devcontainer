@@ -1,3 +1,6 @@
+![Next.js Devcontainer](/banner.png?raw=true "Next.js Devcontainer")
+
+
 # A Next.js in a VS Code development container
 A simple and minimalistic template to develop Next.js code in a VS Code development container.
 
