@@ -6,6 +6,7 @@ A simple and minimalistic template to develop Next.js code in a VS Code developm
 
 ## Features
 - Node + Typescript
+- Docker
 - Git
 - Fast Refresh
 
