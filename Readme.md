@@ -15,11 +15,11 @@ A simple and minimalistic template to develop Next.js code in a VS Code developm
    1. Follow the VS Code containers [Getting Started Guide](https://code.visualstudio.com/docs/remote/containers#_getting-started).
    2. Open the repository folder in a container by following [these steps](https://code.visualstudio.com/docs/remote/containers#_quick-start-open-an-existing-folder-in-a-container).
 2. Setup your Next.js application by using one of these two options
-   - Follow the tutorial to [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app)
+   - **Option 1:** Follow the tutorial to [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app)
       ```bash
       npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
       ```
-   - Add your Next.js project as a [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+   - **Option 2:** Add your Next.js project as a [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
       ```
       git submodule add https://github.com/cassidoo/next-netlify-starter.git
       ```
