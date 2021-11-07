@@ -36,3 +36,5 @@ A simple and minimalistic template to develop your Next.js application in a VS C
    ```bash
    npm run dev
    ```
+## Usage example
+![Usage example](/example.gif?raw=true "Usage example")
