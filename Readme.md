@@ -3,6 +3,7 @@
 
 # Next.js in a VS Code development container
 A simple and minimalistic template to develop your Next.js application in a VS Code development container.
+Use Next.js with the portability of docker and the comfort of VS Code in just a few steps.
 
 ## Features
 - Node + Typescript
